@@ -17,11 +17,11 @@ Open the index.html file in your browser to view the website.
 
 ## Project Structure
 Ossa.Obkodkhun
-├── css/               # CSS stylesheets
-├── js/                # JavaScript files
-├── images/            # Images and icons
-├── index.html         # Main HTML file
-└── README.md          # Project documentation
+- css/               # CSS stylesheets
+- js/                # JavaScript files
+- images/            # Images and icons
+- index.html         # Main HTML file
+- README.md          # Project documentation
 
 ## How to Use
 To modify the design, edit the files in the css/ and index.html.
