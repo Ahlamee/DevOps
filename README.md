@@ -11,7 +11,7 @@ Cross-Browser Compatibility: Works on all modern browsers (Chrome, avast secure 
 Customizable UI: Easily customizable HTML and CSS components.
 
 ## Demo
-You can view a live demo of the project here file:///C:/ossawebdesign/apirak.html.
+You can view a live demo of the project here file:///C:/ossawebdesign/index.html.
 Installation
 Open the index.html file in your browser to view the website.
 
