@@ -21,7 +21,6 @@ Ossa.Obkodkhun
 - js/                # JavaScript files
 - images/            # Images and icons
 - index.html         # Main HTML file
-- 
 - README.md          # Project documentation
 
 ## How to Use
