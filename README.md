@@ -7,7 +7,7 @@ This project contains a docker image provides a complete development environment
 
 ## Features
 Responsive Design: Adjusts seamlessly to different screen sizes.
-Cross-Browser Compatibility: Works on all modern browsers (Chrome, Firefox, Safari, etc.).
+Cross-Browser Compatibility: Works on all modern browsers (Chrome, avast secure browser, etc.).
 Customizable UI: Easily customizable HTML and CSS components.
 
 ## Demo
@@ -21,6 +21,7 @@ Ossa.Obkodkhun
 - js/                # JavaScript files
 - images/            # Images and icons
 - index.html         # Main HTML file
+- 
 - README.md          # Project documentation
 
 ## How to Use
